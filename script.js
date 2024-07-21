@@ -1,15 +1,9 @@
 const backgroundImages = [
-    'url("https://source.unsplash.com/random/800x600?nature")',
-    'url("https://source.unsplash.com/random/800x600?water")',
-    'url("https://source.unsplash.com/random/800x600?mountain")',
-    'url("https://source.unsplash.com/random/800x600?forest")'
+    'url("https://unsplash.com/photos/brown-wooden-boat-moving-towards-the-mountain-O453M2Liufs")'
 ];
 
 const cutoutImages = [
-    'url("https://source.unsplash.com/random/200x300?person")',
-    'url("https://source.unsplash.com/random/200x300?portrait")',
-    'url("https://source.unsplash.com/random/200x300?face")',
-    'url("https://source.unsplash.com/random/200x300?model")'
+    'url("https://unsplash.com/photos/woman-wearing-blue-and-white-floral-spaghetti-strap-dress-gd0qpyteVFY")'
 ];
 
 const captions = [
